@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @sergeant-fisch
+- ⌨ Im often working as MIFUR
 - 👀 I’m interested in basic programming and hacking
 - 🌱 I’m currently learning AU3 and Python
 - 💞️ I’m looking to collaborate on ...
